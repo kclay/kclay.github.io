@@ -58,6 +58,12 @@
             <version>2.11.1</version>
         </dependency>
         <dependency>
+            <groupId>com.googlecode.thread-weaver</groupId>
+            <artifactId>threadweaver</artifactId>
+            <version>0.2</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
             <groupId>org.scala-lang.modules</groupId>
             <artifactId>scala-xml_2.11</artifactId>
             <version>1.0.1</version>
